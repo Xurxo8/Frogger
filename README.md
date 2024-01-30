@@ -1,2 +1,0 @@
-# Frogger
-Frogger para navegador
